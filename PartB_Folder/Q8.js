@@ -26,10 +26,6 @@ console.log(primes);
 let total=nums.reduce((acc,curr)=>acc+curr,0);
 console.log(total);
 
-
-//Using sort, arrange the elements in descending order.
-let descending =nums.slice().sort((a,b)=>b-a);
+//using sort 
+let descending=nums.slice().sort((a,b)=>b-a);
 console.log(descending);
-
-
-

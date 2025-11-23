@@ -1,4 +1,3 @@
-
 //Q3. Rest Operator (Function Parameters)
 function sumAll(...numbers)
 {

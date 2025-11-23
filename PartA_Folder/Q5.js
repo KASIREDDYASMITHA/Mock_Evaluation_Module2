@@ -1,5 +1,3 @@
-
-
 //Q5. Nested Object Destructuring
 
 
@@ -21,4 +19,3 @@ let {
 console.log(city);
 console.log(lat);
 console.log(lng);
-
